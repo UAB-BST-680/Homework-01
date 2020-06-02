@@ -103,6 +103,8 @@ Make a couple more adjustments to the figure:
 
 - Remove the point size guideline from the legend.
 
+- Increase the size of the points in the figure. (hint: look up `scale_size`, use a minimum size of 1 and maximum size of 20)
+
 - Increase the size of points in the fill portion of the legend. (hint: look up `guides`)
 
 ```{r}
